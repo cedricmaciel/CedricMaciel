@@ -14,4 +14,13 @@
 <br>
 <br>
  <h3> 📚 Status do GitHub: <br></h3>
-<img src ="https://roadiecrew.com/wp-content/uploads/Iron-Maiden-5-e1626703336936.jpg" width="200" align="right">
+
+  <div>
+  <a href="https://github.com/cedricmaciel">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cedricmaciel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedricmaciel&layout=compact&langs_count=16&theme=tokyonight" />
+  </a>
+   <img src ="https://roadiecrew.com/wp-content/uploads/Iron-Maiden-5-e1626703336936.jpg" width="200" align="right">
+</div>
+
+
