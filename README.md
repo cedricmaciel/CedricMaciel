@@ -1,11 +1,12 @@
-<h1>Welcome! I'm Cedric</h1> 
+<h1>Welcome to my Github Profile! I'm Cedric</h1> 
 <br>
 <br>
 
+- 💻 I'm Full Stack Developer.
 - 👨‍💻 Systems Analysis and Development at UniCesumar (3/5).
-- 📚 Learning JAVA
+- 📚 Learning JAVA; Develop games;
 - 📫 Contact: cedric_maciel@hotmail.com
-<br>
+
 <a href="https://www.linkedin.com/in/cedric-maciel-2a5aa01b5/" target="_blank"><img src="https://img.freepik.com/fotos-premium/logotipo-quadrado-do-linkedin-isolado-em-fundo-branco_469489-1030.jpg" target="_blank" width="50"></a>
 <br>
 <br>
