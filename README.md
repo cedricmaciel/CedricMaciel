@@ -4,7 +4,7 @@
 
 - 💻 I'm Full Stack Developer.
 - 👨‍💻 Systems Analysis and Development at UniCesumar (5/5).
-- 📚 Learning JAVA; Develop games;
+- 📚 C# and JAVA; Develop games Unity and Blender; ReactJs and React Native.
 - 📫 Contact: <a href="https://www.linkedin.com/in/cedric-maciel-2a5aa01b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="90"></a>
 
 
